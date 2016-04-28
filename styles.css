@@ -1,0 +1,23 @@
+body{
+	background-color:#ff6666;
+}
+
+h1{
+	color:#3399ff;
+}
+
+
+h1, h2{
+	font-family:georgia, sans-serif;
+	text-align: center;;
+}
+
+
+p{ 
+	color: purple; 
+}
+
+
+li{
+	color: blue;
+}
